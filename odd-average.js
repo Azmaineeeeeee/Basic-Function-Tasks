@@ -13,7 +13,7 @@ function oddNumber(numbers) {
     let oddAvg = (oddSum / totalLength.length);
     return { oddSum, oddLength, totalLength, oddAvg };
 }
-let average = oddNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16])
+let average = oddNumber([42,13,58,65,81,7])
 console.log("Odd Numbers in this array are:", average.oddLength);
 console.log("Sum of the odd numbers are:", average.oddSum);
 console.log("Average of the odd numbers:", average.oddAvg);
