@@ -25,3 +25,6 @@ function discountPrice(quantity){
 }
 const totalPrice = discountPrice(202);
 console.log(totalPrice);
+
+
+
