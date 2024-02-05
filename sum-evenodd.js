@@ -53,3 +53,4 @@ console.log("Even Numbers:", Numbers.even);
 console.log("Odd Numbers:", Numbers.odd);
 console.log("Sum of Even Numbers:", Numbers.sumEven);
 console.log("Sum of Odd Numbers:", Numbers.sumOdd);
+
